@@ -1,0 +1,1041 @@
+{
+  "users": [
+    {
+      "userId": "U001",
+      "email": "user1@eduhub.com",
+      "firstName": "User1",
+      "lastName": "Test1",
+      "role": "student",
+      "dateJoined": "2025-01-02T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 1.",
+        "avatar": "https://eduhub.com/avatar1.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U002",
+      "email": "user2@eduhub.com",
+      "firstName": "User2",
+      "lastName": "Test2",
+      "role": "student",
+      "dateJoined": "2025-01-03T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 2.",
+        "avatar": "https://eduhub.com/avatar2.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U003",
+      "email": "user3@eduhub.com",
+      "firstName": "User3",
+      "lastName": "Test3",
+      "role": "instructor",
+      "dateJoined": "2025-01-04T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 3.",
+        "avatar": "https://eduhub.com/avatar3.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U004",
+      "email": "user4@eduhub.com",
+      "firstName": "User4",
+      "lastName": "Test4",
+      "role": "student",
+      "dateJoined": "2025-01-05T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 4.",
+        "avatar": "https://eduhub.com/avatar4.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U005",
+      "email": "user5@eduhub.com",
+      "firstName": "User5",
+      "lastName": "Test5",
+      "role": "student",
+      "dateJoined": "2025-01-06T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 5.",
+        "avatar": "https://eduhub.com/avatar5.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U006",
+      "email": "user6@eduhub.com",
+      "firstName": "User6",
+      "lastName": "Test6",
+      "role": "instructor",
+      "dateJoined": "2025-01-07T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 6.",
+        "avatar": "https://eduhub.com/avatar6.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U007",
+      "email": "user7@eduhub.com",
+      "firstName": "User7",
+      "lastName": "Test7",
+      "role": "student",
+      "dateJoined": "2025-01-08T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 7.",
+        "avatar": "https://eduhub.com/avatar7.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U008",
+      "email": "user8@eduhub.com",
+      "firstName": "User8",
+      "lastName": "Test8",
+      "role": "student",
+      "dateJoined": "2025-01-09T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 8.",
+        "avatar": "https://eduhub.com/avatar8.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U009",
+      "email": "user9@eduhub.com",
+      "firstName": "User9",
+      "lastName": "Test9",
+      "role": "instructor",
+      "dateJoined": "2025-01-10T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 9.",
+        "avatar": "https://eduhub.com/avatar9.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U010",
+      "email": "user10@eduhub.com",
+      "firstName": "User10",
+      "lastName": "Test10",
+      "role": "student",
+      "dateJoined": "2025-01-11T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 10.",
+        "avatar": "https://eduhub.com/avatar10.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U011",
+      "email": "user11@eduhub.com",
+      "firstName": "User11",
+      "lastName": "Test11",
+      "role": "student",
+      "dateJoined": "2025-01-12T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 11.",
+        "avatar": "https://eduhub.com/avatar11.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U012",
+      "email": "user12@eduhub.com",
+      "firstName": "User12",
+      "lastName": "Test12",
+      "role": "instructor",
+      "dateJoined": "2025-01-13T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 12.",
+        "avatar": "https://eduhub.com/avatar12.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U013",
+      "email": "user13@eduhub.com",
+      "firstName": "User13",
+      "lastName": "Test13",
+      "role": "student",
+      "dateJoined": "2025-01-14T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 13.",
+        "avatar": "https://eduhub.com/avatar13.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U014",
+      "email": "user14@eduhub.com",
+      "firstName": "User14",
+      "lastName": "Test14",
+      "role": "student",
+      "dateJoined": "2025-01-15T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 14.",
+        "avatar": "https://eduhub.com/avatar14.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U015",
+      "email": "user15@eduhub.com",
+      "firstName": "User15",
+      "lastName": "Test15",
+      "role": "instructor",
+      "dateJoined": "2025-01-16T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 15.",
+        "avatar": "https://eduhub.com/avatar15.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U016",
+      "email": "user16@eduhub.com",
+      "firstName": "User16",
+      "lastName": "Test16",
+      "role": "student",
+      "dateJoined": "2025-01-17T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 16.",
+        "avatar": "https://eduhub.com/avatar16.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U017",
+      "email": "user17@eduhub.com",
+      "firstName": "User17",
+      "lastName": "Test17",
+      "role": "student",
+      "dateJoined": "2025-01-18T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 17.",
+        "avatar": "https://eduhub.com/avatar17.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U018",
+      "email": "user18@eduhub.com",
+      "firstName": "User18",
+      "lastName": "Test18",
+      "role": "instructor",
+      "dateJoined": "2025-01-19T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 18.",
+        "avatar": "https://eduhub.com/avatar18.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U019",
+      "email": "user19@eduhub.com",
+      "firstName": "User19",
+      "lastName": "Test19",
+      "role": "student",
+      "dateJoined": "2025-01-20T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 19.",
+        "avatar": "https://eduhub.com/avatar19.png",
+        "skills": [
+          "SQL",
+          "Excel"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "userId": "U020",
+      "email": "user20@eduhub.com",
+      "firstName": "User20",
+      "lastName": "Test20",
+      "role": "student",
+      "dateJoined": "2025-01-21T00:00:00",
+      "profile": {
+        "bio": "This is a sample bio for user 20.",
+        "avatar": "https://eduhub.com/avatar20.png",
+        "skills": [
+          "Python",
+          "MongoDB"
+        ]
+      },
+      "isActive": true
+    }
+  ],
+  "courses": [
+    {
+      "courseId": "C001",
+      "title": "Course 1 on MongoDB",
+      "description": "This is the description of Course 1.",
+      "instructorId": "U004",
+      "category": "Programming",
+      "level": "intermediate",
+      "duration": 11,
+      "price": 54.99,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-02T00:00:00",
+      "updatedAt": "2025-03-02T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C002",
+      "title": "Course 2 on MongoDB",
+      "description": "This is the description of Course 2.",
+      "instructorId": "U007",
+      "category": "Database",
+      "level": "intermediate",
+      "duration": 12,
+      "price": 59.99,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-03T00:00:00",
+      "updatedAt": "2025-03-03T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C003",
+      "title": "Course 3 on MongoDB",
+      "description": "This is the description of Course 3.",
+      "instructorId": "U010",
+      "category": "Programming",
+      "level": "beginner",
+      "duration": 13,
+      "price": 64.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-04T00:00:00",
+      "updatedAt": "2025-03-04T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C004",
+      "title": "Course 4 on MongoDB",
+      "description": "This is the description of Course 4.",
+      "instructorId": "U013",
+      "category": "Database",
+      "level": "intermediate",
+      "duration": 14,
+      "price": 69.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-05T00:00:00",
+      "updatedAt": "2025-03-05T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C005",
+      "title": "Course 5 on MongoDB",
+      "description": "This is the description of Course 5.",
+      "instructorId": "U001",
+      "category": "Programming",
+      "level": "intermediate",
+      "duration": 15,
+      "price": 74.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-06T00:00:00",
+      "updatedAt": "2025-03-06T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C006",
+      "title": "Course 6 on MongoDB",
+      "description": "This is the description of Course 6.",
+      "instructorId": "U004",
+      "category": "Database",
+      "level": "beginner",
+      "duration": 16,
+      "price": 79.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-07T00:00:00",
+      "updatedAt": "2025-03-07T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C007",
+      "title": "Course 7 on MongoDB",
+      "description": "This is the description of Course 7.",
+      "instructorId": "U007",
+      "category": "Programming",
+      "level": "intermediate",
+      "duration": 17,
+      "price": 84.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-08T00:00:00",
+      "updatedAt": "2025-03-08T00:00:00",
+      "isPublished": true
+    },
+    {
+      "courseId": "C008",
+      "title": "Course 8 on MongoDB",
+      "description": "This is the description of Course 8.",
+      "instructorId": "U010",
+      "category": "Database",
+      "level": "intermediate",
+      "duration": 18,
+      "price": 89.99000000000001,
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Python"
+      ],
+      "createdAt": "2025-02-09T00:00:00",
+      "updatedAt": "2025-03-09T00:00:00",
+      "isPublished": true
+    }
+  ],
+  "enrollments": [
+    {
+      "enrollmentId": "E001",
+      "studentId": "U002",
+      "courseId": "C002",
+      "enrolledAt": "2025-03-02T00:00:00",
+      "progress": 7,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E002",
+      "studentId": "U003",
+      "courseId": "C003",
+      "enrolledAt": "2025-03-03T00:00:00",
+      "progress": 14,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E003",
+      "studentId": "U004",
+      "courseId": "C004",
+      "enrolledAt": "2025-03-04T00:00:00",
+      "progress": 21,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E004",
+      "studentId": "U005",
+      "courseId": "C005",
+      "enrolledAt": "2025-03-05T00:00:00",
+      "progress": 28,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E005",
+      "studentId": "U006",
+      "courseId": "C006",
+      "enrolledAt": "2025-03-06T00:00:00",
+      "progress": 35,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E006",
+      "studentId": "U007",
+      "courseId": "C007",
+      "enrolledAt": "2025-03-07T00:00:00",
+      "progress": 42,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E007",
+      "studentId": "U008",
+      "courseId": "C008",
+      "enrolledAt": "2025-03-08T00:00:00",
+      "progress": 49,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E008",
+      "studentId": "U009",
+      "courseId": "C001",
+      "enrolledAt": "2025-03-09T00:00:00",
+      "progress": 56,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E009",
+      "studentId": "U010",
+      "courseId": "C002",
+      "enrolledAt": "2025-03-10T00:00:00",
+      "progress": 63,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E010",
+      "studentId": "U011",
+      "courseId": "C003",
+      "enrolledAt": "2025-03-11T00:00:00",
+      "progress": 70,
+      "isComplete": true
+    },
+    {
+      "enrollmentId": "E011",
+      "studentId": "U012",
+      "courseId": "C004",
+      "enrolledAt": "2025-03-12T00:00:00",
+      "progress": 77,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E012",
+      "studentId": "U013",
+      "courseId": "C005",
+      "enrolledAt": "2025-03-13T00:00:00",
+      "progress": 84,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E013",
+      "studentId": "U014",
+      "courseId": "C006",
+      "enrolledAt": "2025-03-14T00:00:00",
+      "progress": 91,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E014",
+      "studentId": "U015",
+      "courseId": "C007",
+      "enrolledAt": "2025-03-15T00:00:00",
+      "progress": 98,
+      "isComplete": false
+    },
+    {
+      "enrollmentId": "E015",
+      "studentId": "U001",
+      "courseId": "C008",
+      "enrolledAt": "2025-03-16T00:00:00",
+      "progress": 5,
+      "isComplete": false
+    }
+  ],
+  "lessons": [
+    {
+      "lessonId": "L001",
+      "courseId": "C002",
+      "title": "Lesson 1: MongoDB Concepts",
+      "content": "This is the content for lesson 1.",
+      "order": 1,
+      "durationMin": 16,
+      "createdAt": "2025-04-02T00:00:00"
+    },
+    {
+      "lessonId": "L002",
+      "courseId": "C003",
+      "title": "Lesson 2: MongoDB Concepts",
+      "content": "This is the content for lesson 2.",
+      "order": 2,
+      "durationMin": 17,
+      "createdAt": "2025-04-03T00:00:00"
+    },
+    {
+      "lessonId": "L003",
+      "courseId": "C004",
+      "title": "Lesson 3: MongoDB Concepts",
+      "content": "This is the content for lesson 3.",
+      "order": 3,
+      "durationMin": 18,
+      "createdAt": "2025-04-04T00:00:00"
+    },
+    {
+      "lessonId": "L004",
+      "courseId": "C005",
+      "title": "Lesson 4: MongoDB Concepts",
+      "content": "This is the content for lesson 4.",
+      "order": 4,
+      "durationMin": 19,
+      "createdAt": "2025-04-05T00:00:00"
+    },
+    {
+      "lessonId": "L005",
+      "courseId": "C006",
+      "title": "Lesson 5: MongoDB Concepts",
+      "content": "This is the content for lesson 5.",
+      "order": 5,
+      "durationMin": 20,
+      "createdAt": "2025-04-06T00:00:00"
+    },
+    {
+      "lessonId": "L006",
+      "courseId": "C007",
+      "title": "Lesson 6: MongoDB Concepts",
+      "content": "This is the content for lesson 6.",
+      "order": 6,
+      "durationMin": 21,
+      "createdAt": "2025-04-07T00:00:00"
+    },
+    {
+      "lessonId": "L007",
+      "courseId": "C008",
+      "title": "Lesson 7: MongoDB Concepts",
+      "content": "This is the content for lesson 7.",
+      "order": 7,
+      "durationMin": 22,
+      "createdAt": "2025-04-08T00:00:00"
+    },
+    {
+      "lessonId": "L008",
+      "courseId": "C001",
+      "title": "Lesson 8: MongoDB Concepts",
+      "content": "This is the content for lesson 8.",
+      "order": 8,
+      "durationMin": 23,
+      "createdAt": "2025-04-09T00:00:00"
+    },
+    {
+      "lessonId": "L009",
+      "courseId": "C002",
+      "title": "Lesson 9: MongoDB Concepts",
+      "content": "This is the content for lesson 9.",
+      "order": 9,
+      "durationMin": 24,
+      "createdAt": "2025-04-10T00:00:00"
+    },
+    {
+      "lessonId": "L010",
+      "courseId": "C003",
+      "title": "Lesson 10: MongoDB Concepts",
+      "content": "This is the content for lesson 10.",
+      "order": 10,
+      "durationMin": 25,
+      "createdAt": "2025-04-11T00:00:00"
+    },
+    {
+      "lessonId": "L011",
+      "courseId": "C004",
+      "title": "Lesson 11: MongoDB Concepts",
+      "content": "This is the content for lesson 11.",
+      "order": 11,
+      "durationMin": 26,
+      "createdAt": "2025-04-12T00:00:00"
+    },
+    {
+      "lessonId": "L012",
+      "courseId": "C005",
+      "title": "Lesson 12: MongoDB Concepts",
+      "content": "This is the content for lesson 12.",
+      "order": 12,
+      "durationMin": 27,
+      "createdAt": "2025-04-13T00:00:00"
+    },
+    {
+      "lessonId": "L013",
+      "courseId": "C006",
+      "title": "Lesson 13: MongoDB Concepts",
+      "content": "This is the content for lesson 13.",
+      "order": 13,
+      "durationMin": 28,
+      "createdAt": "2025-04-14T00:00:00"
+    },
+    {
+      "lessonId": "L014",
+      "courseId": "C007",
+      "title": "Lesson 14: MongoDB Concepts",
+      "content": "This is the content for lesson 14.",
+      "order": 14,
+      "durationMin": 29,
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "lessonId": "L015",
+      "courseId": "C008",
+      "title": "Lesson 15: MongoDB Concepts",
+      "content": "This is the content for lesson 15.",
+      "order": 15,
+      "durationMin": 30,
+      "createdAt": "2025-04-16T00:00:00"
+    },
+    {
+      "lessonId": "L016",
+      "courseId": "C001",
+      "title": "Lesson 16: MongoDB Concepts",
+      "content": "This is the content for lesson 16.",
+      "order": 16,
+      "durationMin": 31,
+      "createdAt": "2025-04-17T00:00:00"
+    },
+    {
+      "lessonId": "L017",
+      "courseId": "C002",
+      "title": "Lesson 17: MongoDB Concepts",
+      "content": "This is the content for lesson 17.",
+      "order": 17,
+      "durationMin": 32,
+      "createdAt": "2025-04-18T00:00:00"
+    },
+    {
+      "lessonId": "L018",
+      "courseId": "C003",
+      "title": "Lesson 18: MongoDB Concepts",
+      "content": "This is the content for lesson 18.",
+      "order": 18,
+      "durationMin": 33,
+      "createdAt": "2025-04-19T00:00:00"
+    },
+    {
+      "lessonId": "L019",
+      "courseId": "C004",
+      "title": "Lesson 19: MongoDB Concepts",
+      "content": "This is the content for lesson 19.",
+      "order": 19,
+      "durationMin": 34,
+      "createdAt": "2025-04-20T00:00:00"
+    },
+    {
+      "lessonId": "L020",
+      "courseId": "C005",
+      "title": "Lesson 20: MongoDB Concepts",
+      "content": "This is the content for lesson 20.",
+      "order": 20,
+      "durationMin": 35,
+      "createdAt": "2025-04-21T00:00:00"
+    },
+    {
+      "lessonId": "L021",
+      "courseId": "C006",
+      "title": "Lesson 21: MongoDB Concepts",
+      "content": "This is the content for lesson 21.",
+      "order": 21,
+      "durationMin": 36,
+      "createdAt": "2025-04-22T00:00:00"
+    },
+    {
+      "lessonId": "L022",
+      "courseId": "C007",
+      "title": "Lesson 22: MongoDB Concepts",
+      "content": "This is the content for lesson 22.",
+      "order": 22,
+      "durationMin": 37,
+      "createdAt": "2025-04-23T00:00:00"
+    },
+    {
+      "lessonId": "L023",
+      "courseId": "C008",
+      "title": "Lesson 23: MongoDB Concepts",
+      "content": "This is the content for lesson 23.",
+      "order": 23,
+      "durationMin": 38,
+      "createdAt": "2025-04-24T00:00:00"
+    },
+    {
+      "lessonId": "L024",
+      "courseId": "C001",
+      "title": "Lesson 24: MongoDB Concepts",
+      "content": "This is the content for lesson 24.",
+      "order": 24,
+      "durationMin": 39,
+      "createdAt": "2025-04-25T00:00:00"
+    },
+    {
+      "lessonId": "L025",
+      "courseId": "C002",
+      "title": "Lesson 25: MongoDB Concepts",
+      "content": "This is the content for lesson 25.",
+      "order": 25,
+      "durationMin": 40,
+      "createdAt": "2025-04-26T00:00:00"
+    }
+  ],
+  "assignments": [
+    {
+      "assignmentId": "A001",
+      "courseId": "C002",
+      "title": "Assignment 1",
+      "description": "Assignment 1 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-03T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A002",
+      "courseId": "C003",
+      "title": "Assignment 2",
+      "description": "Assignment 2 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-05T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A003",
+      "courseId": "C004",
+      "title": "Assignment 3",
+      "description": "Assignment 3 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-07T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A004",
+      "courseId": "C005",
+      "title": "Assignment 4",
+      "description": "Assignment 4 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-09T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A005",
+      "courseId": "C006",
+      "title": "Assignment 5",
+      "description": "Assignment 5 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-11T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A006",
+      "courseId": "C007",
+      "title": "Assignment 6",
+      "description": "Assignment 6 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-13T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A007",
+      "courseId": "C008",
+      "title": "Assignment 7",
+      "description": "Assignment 7 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-15T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A008",
+      "courseId": "C001",
+      "title": "Assignment 8",
+      "description": "Assignment 8 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-17T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A009",
+      "courseId": "C002",
+      "title": "Assignment 9",
+      "description": "Assignment 9 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-19T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    },
+    {
+      "assignmentId": "A010",
+      "courseId": "C003",
+      "title": "Assignment 10",
+      "description": "Assignment 10 details and requirements.",
+      "points": 100,
+      "dueDate": "2025-05-21T00:00:00",
+      "createdAt": "2025-04-15T00:00:00"
+    }
+  ],
+  "submissions": [
+    {
+      "submissionId": "S001",
+      "assignmentId": "A002",
+      "studentId": "U002",
+      "submittedAt": "2025-05-02T00:00:00",
+      "content": "Submission content for assignment 2 by student 2.",
+      "grade": 8,
+      "feedback": "Feedback for submission 1."
+    },
+    {
+      "submissionId": "S002",
+      "assignmentId": "A003",
+      "studentId": "U003",
+      "submittedAt": "2025-05-03T00:00:00",
+      "content": "Submission content for assignment 3 by student 3.",
+      "grade": 16,
+      "feedback": "Feedback for submission 2."
+    },
+    {
+      "submissionId": "S003",
+      "assignmentId": "A004",
+      "studentId": "U004",
+      "submittedAt": "2025-05-04T00:00:00",
+      "content": "Submission content for assignment 4 by student 4.",
+      "grade": 24,
+      "feedback": "Feedback for submission 3."
+    },
+    {
+      "submissionId": "S004",
+      "assignmentId": "A005",
+      "studentId": "U005",
+      "submittedAt": "2025-05-05T00:00:00",
+      "content": "Submission content for assignment 5 by student 5.",
+      "grade": 32,
+      "feedback": "Feedback for submission 4."
+    },
+    {
+      "submissionId": "S005",
+      "assignmentId": "A006",
+      "studentId": "U006",
+      "submittedAt": "2025-05-06T00:00:00",
+      "content": "Submission content for assignment 6 by student 6.",
+      "grade": 40,
+      "feedback": "Feedback for submission 5."
+    },
+    {
+      "submissionId": "S006",
+      "assignmentId": "A007",
+      "studentId": "U007",
+      "submittedAt": "2025-05-07T00:00:00",
+      "content": "Submission content for assignment 7 by student 7.",
+      "grade": 48,
+      "feedback": "Feedback for submission 6."
+    },
+    {
+      "submissionId": "S007",
+      "assignmentId": "A008",
+      "studentId": "U008",
+      "submittedAt": "2025-05-08T00:00:00",
+      "content": "Submission content for assignment 8 by student 8.",
+      "grade": 56,
+      "feedback": "Feedback for submission 7."
+    },
+    {
+      "submissionId": "S008",
+      "assignmentId": "A009",
+      "studentId": "U009",
+      "submittedAt": "2025-05-09T00:00:00",
+      "content": "Submission content for assignment 9 by student 9.",
+      "grade": 64,
+      "feedback": "Feedback for submission 8."
+    },
+    {
+      "submissionId": "S009",
+      "assignmentId": "A010",
+      "studentId": "U010",
+      "submittedAt": "2025-05-10T00:00:00",
+      "content": "Submission content for assignment 10 by student 10.",
+      "grade": 72,
+      "feedback": "Feedback for submission 9."
+    },
+    {
+      "submissionId": "S010",
+      "assignmentId": "A001",
+      "studentId": "U011",
+      "submittedAt": "2025-05-11T00:00:00",
+      "content": "Submission content for assignment 1 by student 11.",
+      "grade": 80,
+      "feedback": "Feedback for submission 10."
+    },
+    {
+      "submissionId": "S011",
+      "assignmentId": "A002",
+      "studentId": "U012",
+      "submittedAt": "2025-05-12T00:00:00",
+      "content": "Submission content for assignment 2 by student 12.",
+      "grade": 88,
+      "feedback": "Feedback for submission 11."
+    },
+    {
+      "submissionId": "S012",
+      "assignmentId": "A003",
+      "studentId": "U013",
+      "submittedAt": "2025-05-13T00:00:00",
+      "content": "Submission content for assignment 3 by student 13.",
+      "grade": 96,
+      "feedback": "Feedback for submission 12."
+    }
+  ]
+}
